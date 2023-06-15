@@ -1,5 +1,5 @@
 # token-counter
-Count tokens if a file using python. Works with text, html, json, and pdf files.
+Count tokens of a file using python. Works with text, html, json, and pdf files.
 
 To use script run "py tokencounter.py File_Name.txt"
 
